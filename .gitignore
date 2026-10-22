@@ -1,0 +1,8 @@
+__pycache__/
+.streamlit/secrets.toml
+app.log
+*.pyc
+.ipynb_checkpoints/
+log/claude/
+log/backup/
+.pytest_cache/
